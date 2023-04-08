@@ -3,13 +3,14 @@
 export default function Home() {
   return (
     <>
-      {/* TODO : REPLACE WITH RELEVANT COMPONENTS TO RENDER */}
+    {/* TODO : REPLACE WITH RELEVANT COMPONENTS TO RENDER */}
       <h1>Navbar Section</h1>
       <h1>Main Section</h1>
       <h1>Footer Section</h1>
-      <h1 className="text-3xl underline mx-7 px-3 bg-purple-500 font-semibold">
-        Hello world!
-      </h1>
+    <h1 className="text-3xl font-bold underline">
+      Hello world!
+    </h1>
+
     </>
   );
 }
