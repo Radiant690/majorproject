@@ -1,3 +1,11 @@
+// ! Resource Page 
+/* 
+   Lists : 
+    -> Publications
+    -> Patents 
+    -> Research enlistments
+    -> Helpful Articles
+*/
 import React from "react";
 
 function resources() {
