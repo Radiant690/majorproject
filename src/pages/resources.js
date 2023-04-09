@@ -5,6 +5,7 @@
     -> Patents 
     -> Research enlistments
     -> Helpful Articles
+    -> Helpful message
 */
 import React from "react";
 
